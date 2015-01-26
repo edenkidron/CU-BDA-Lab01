@@ -8,7 +8,7 @@
 
 LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron/62/940/427/)
 
-## My motivation for taking Introduction to Baysian Analysis:
+## My motivation for taking Introduction to Bayesian Analysis:
 
 ####ikkjlk
 
