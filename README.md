@@ -1,6 +1,6 @@
 # CU-BDA-Lab01
 
-<p align = "center"> ![alt tag](https://raw.github.com/Users/edenkidron/Desktop/pic.jpg) 
+<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894465/aab189c8-a4d5-11e4-912c-c23b30e12e2c.jpg) 
 
 ###My name is <span style="color:purple">Eden Kidron</span> and I'm a <span style="color:purple">senior</span> majoring in <span style="color:purple">statistics</span> in the College of Agriculture and Life Sciences.
 <enter>
