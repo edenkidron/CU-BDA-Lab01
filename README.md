@@ -1,6 +1,6 @@
 # CU-BDA-Lab01
 
-<p align = "center"> ![](/Users/edenkidron/Desktop/pic.jpg) 
+<p align = "center"> ![alt tag](https://raw.github.com/Users/edenkidron/Desktop/pic.jpg) 
 
 ###My name is <span style="color:purple">Eden Kidron</span> and I'm a <span style="color:purple">senior</span> majoring in <span style="color:purple">statistics</span> in the College of Agriculture and Life Sciences.
 <enter>
@@ -8,6 +8,7 @@
 
 LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron/62/940/427/)
 
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
 
 ## Data Analysis Problem That Interest Me:
 <enter>
