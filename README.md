@@ -8,9 +8,7 @@
 
 LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron/62/940/427/)
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
-
-## Data Analysis Problem That Interest Me:
+## Data Analysis Problem That Interests Me:
 <enter>
 <enter>
 
@@ -27,9 +25,9 @@ Objective:
 - Find the typical sequence of options
 ```
 
-## Overview
+## Example of Data:
+<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894692/c39dcd76-a4d9-11e4-973a-e32e61e4c392.png)
 
-**Mou**, the missing Markdown editor for *web developers*.
 
 ### Syntax
 
