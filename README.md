@@ -8,9 +8,16 @@
 
 LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron/62/940/427/)
 
-## Data Analysis Problem That Interests Me:
+## My motivation for taking Introduction to Baysian Analysis:
+
+####ikkjlk
+
+
+## Description of Data Analysis Problem That Interests Me:
 <enter>
 <enter>
+
+####I worked 
 
 ```
 Given:
@@ -22,7 +29,7 @@ Given:
 - Differences between steps don't have meaning
 
 Objective:
-- Find the typical sequence of opts
+- Find the top three most typical sequences of options 
 ```
 
 ## Example of Data:
