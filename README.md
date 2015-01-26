@@ -28,15 +28,3 @@ Objective:
 ## Example of Data:
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894692/c39dcd76-a4d9-11e4-973a-e32e61e4c392.png)
 
-
-#### In a markdown table version:
-
-
- .            | Step 0  |Step 1|Step 2 | Step 3|Step 4|Step 5  |Step 6 | Step 7 |...
-:------------ |: -------------:| ------------
-Respondent 1 | opt 20  |opt 11 |opt 20 | opt 5 |opt 17  |opt 16 |opt 17  | opt 7 |
-Respondent 2 | opt 3   |opt 18 |opt 1  | opt 12|opt 11  |opt 15 |opt 6   |       |
-Respondent 3 | opt 5   |opt 13 |	    |       |        |       |    |   |
-Respondent 4 | opt 11  |opt 7  |opt 9  | opt 2 |opt 14  |       |    |   | 
-Respondent 5 | opt 9   |opt 11 |opt 3  | opt 3 |opt 9   |opt 12 |    |   |
-...||||||||
