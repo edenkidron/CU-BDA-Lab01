@@ -10,8 +10,7 @@ LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron
 
 ## My motivation for taking Introduction to Bayesian Analysis:
 
-####ikkjlk
-
+I am interested in going for a PhD in marketing after graduation, and one of my professors recommended that I learn baysian statistics as it is very applicable in the marketing literature. I am also interested in learning exactl how Baysian statistics is different from frequentists. And how come statisticians claim that Baysian statistical approach can replace te frequentist statistics approach.
 
 ## Description of Data Analysis Problem That Interests Me:
 <enter>
