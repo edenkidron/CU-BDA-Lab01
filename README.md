@@ -31,7 +31,7 @@ For example:
 
 - In this example this consumer's row in the data would look like this:
 
-<p align = "center"> ![](/Users/edenkidron/Desktop/Screen%20Shot%202015-01-29%20at%203.54.50%20PM.png?raw=true)
+<p align = "center"> ![](2.png?raw=true)
 
 
 Given:<enter>
@@ -47,10 +47,10 @@ Objective:
 - Find the top typical order of options 
 
 ## Example of Data:
-<p align = "center"> ![](/Users/edenkidron/Desktop/Screen%20Shot%202015-01-29%20at%203.51.25%20PM.png?raw=true)
+<p align = "center"> ![](3.png?raw=true)
 
 ## An example of a potential result where there exist common path(s):
 
-<p align = "center"> ![](/Users/edenkidron/Desktop/4.png?raw=true)
+<p align = "center"> ![](4.png?raw=true)
 
 
