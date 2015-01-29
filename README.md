@@ -1,4 +1,4 @@
-CU-BDA-Lab01 (again)
+CU-BDA-Lab01
 ===
 **Due on Friday, 30 Jan @ 12:00am (end of thursday)**
 <enter>
