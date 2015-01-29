@@ -45,7 +45,7 @@ Objective:
 ## Example of Data:
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894692/c39dcd76-a4d9-11e4-973a-e32e61e4c392.png)
 
-## Example of a potential result where there exists culusters of paths:
+## An example of a potential result where there exist common path(s):
 
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964340/605bf7ca-a7c1-11e4-869f-5900c45da41c.png)
 
