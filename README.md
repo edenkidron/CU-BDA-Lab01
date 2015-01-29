@@ -32,15 +32,14 @@ In this example this consumer's row in the data would look like this:
 Given:<enter>
 
 - 1000 respondents (rows)
-- Each respondent chose between 0-20 options (TP)
-- Each respondent ordered 0-20 opts they chose as sequenced steps in time 
-- Each respondent could place each opt at least once and up to twice
-- The number of steps each respondent could have ranked is between 0 - 40 
+- Each respondent can choose between 0-10 options
+- Each respondent ordered 0-10 options they used in their purchasing process
+- Each respondent could have used each option once or twice
 - Differences between steps don't have meaning
 
 Objective:
 
-- Find the top three most typical sequences of options 
+- Find the top typical order of options 
 
 ## Example of Data:
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894692/c39dcd76-a4d9-11e4-973a-e32e61e4c392.png)
