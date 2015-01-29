@@ -28,7 +28,7 @@ For example:
 <enter>
 - Dan is a typical consumer of vacuum. He is decided on buy a vacuum because his old one broke. At the beginning of his search he goes to his old retailer website to look at the vacuums to get a feel for the different vacuum attributes. Later he compares prices of vacuums on Google. A few days later, he decides to check the prices on amazon and eBay. He then maybe have a side conversation with his mother about the vacuum she uses. After that he attends a party at his friends' house and asks them about their vacuum. Eventually, he goes to the retail store down his street where he browses the different vacuums and asks one of the salesmen to give him a demonstration after which he makes his purchase. 
 
-In this example this consumer's row in the data would look like this:
+- In this example this consumer's row in the data would look like this:
 
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964159/fe65ba3e-a7bf-11e4-920c-bf943182cc93.png)
 
