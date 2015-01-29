@@ -26,6 +26,8 @@ For example: Max is a typical consumer of vaccum. He is decided on buy a vaccum 
 
 In this example this consumer's row in the data would look like this:
 
+<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964159/fe65ba3e-a7bf-11e4-920c-bf943182cc93.png)
+
 
 Given:<enter>
 
