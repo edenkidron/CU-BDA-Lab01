@@ -3,7 +3,7 @@ CU-BDA-Lab01
 **Due on Friday, 30 Jan @ 12:00am (end of thursday)**
 <enter>
 
-<p align = "center"> ![](/Users/edenkidron/Desktop/1.jpg?raw=true)
+<p align = "center"> ![](1.jpg?raw=true)
 
 ### My name is <span style="color:purple">Eden Kidron</span> and I'm a <span style="color:purple">senior</span> majoring in <span style="color:purple">statistics</span> in the College of Agriculture and Life Sciences.
 <enter>
