@@ -3,7 +3,7 @@ CU-BDA-Lab01 (again)
 **Due on Friday, 30 Jan @ 12:00am (end of thursday)**
 <enter>
 
-<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894465/aab189c8-a4d5-11e4-912c-c23b30e12e2c.jpg) 
+<p align = "center"> ![](/Users/edenkidron/Desktop/1.jpg?raw=true)
 
 ### My name is <span style="color:purple">Eden Kidron</span> and I'm a <span style="color:purple">senior</span> majoring in <span style="color:purple">statistics</span> in the College of Agriculture and Life Sciences.
 <enter>
@@ -26,17 +26,18 @@ Two summers ago I interned at a research based marketing company in Amsterdam, T
 For example: 
 <enter> 
 <enter>
-- Dan is a typical consumer of vacuum. He is decided on buy a vacuum because his old one broke. At the beginning of his search he goes to his old retailer website to look at the vacuums to get a feel for the different vacuum attributes. Later he compares prices of vacuums on Google. A few days later, he decides to check the prices on amazon and eBay. He then maybe have a side conversation with his mother about the vacuum she uses. After that he attends a party at his friends' house and asks them about their vacuum. Eventually, he goes to the retail store down his street where he browses the different vacuums and asks one of the salesmen to give him a demonstration after which he makes his purchase. 
+
+- Max is a typical consumer of vacuum. He is decided on buy a vacuum because his old one broke. At the beginning of his search he goes to his old retailer website to look at the vacuums to get a feel for the different vacuum attributes. Later he compares prices of vacuums on Google. A few days later, he decides to check the prices on amazon and eBay. He then maybe have a side conversation with his mother about the vacuum she uses. After that he attends a party at his friends' house and asks them about their vacuum. Eventually, he goes to the retail store down his street where he browses the different vacuums and asks one of the salesmen to give him a demonstration after which he makes his purchase. 
 
 - In this example this consumer's row in the data would look like this:
 
-<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964159/fe65ba3e-a7bf-11e4-920c-bf943182cc93.png)
+<p align = "center"> ![](/Users/edenkidron/Desktop/Screen%20Shot%202015-01-29%20at%203.54.50%20PM.png?raw=true)
 
 
 Given:<enter>
 
 - 1000 respondents (rows)
-- Each respondent can choose between 0-10 options
+- Each respondent can choose between 0-10 descrete options (TP)
 - Each respondent ordered 0-10 options they used in their purchasing process
 - Each respondent could have used each option once or twice
 - Differences between steps don't have meaning
@@ -46,10 +47,10 @@ Objective:
 - Find the top typical order of options 
 
 ## Example of Data:
-<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5894692/c39dcd76-a4d9-11e4-973a-e32e61e4c392.png)
+<p align = "center"> ![](/Users/edenkidron/Desktop/Screen%20Shot%202015-01-29%20at%203.51.25%20PM.png?raw=true)
 
 ## An example of a potential result where there exist common path(s):
 
-<p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964340/605bf7ca-a7c1-11e4-869f-5900c45da41c.png)
+<p align = "center"> ![](/Users/edenkidron/Desktop/4.png?raw=true)
 
 
