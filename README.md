@@ -14,15 +14,15 @@ LInkedin profile: [EDEN KIDRON LINKEDIN](http://www.linkedin.com/pub/eden-kidron
 ## My motivation for taking Introduction to Bayesian Analysis:
 
 <enter>
-I'm applying for PhD Marketing programs and one of the main statistical analysis themes in many of the current papers is baysian analysis approach. Also, I hear about baysian analysis method in almost every major statistics class (applied design, statistical computing, survival analsyis, time series, introduction to statistics, etc).
+I'm applying for PhD Marketing programs and one of the main statistical analysis themes in many of the current papers is Bayesian analysis approach. Also, I hear about Bayesian analysis method in almost every major statistics class (applied design, statistical computing, survival analysis, time series, introduction to statistics, etc).
 
 ## Description of Data Analysis Problem That Interests Me:
 <enter>
 <enter>
 
-Two summers ago I interned at a research based marketing company in Amsterdam. They have designed and administrated an online survey to 1000 respondents trying to identify the ideal consumer decision journey. The consumer decision journey is the decision making process that a consumer goes through from the moment he or she decisdes to make a purchase till the moment of purchase. During this decision making process the consumer gathers information from various sources ( goolde search, amazon, retailer website, visit to the retailer store, friends and family, etc) which are called Touch Points (TP). More specifically, TP are points in time where the consumer comes in contact with the brand in some way. The date format gathered is shown below where options represent TP. Steps respresent the order in which the responded visited these TP (whether online or offline). The process of gathering these data was that each respondent picked the touchpoints he or she used during thier decision making process. Then, these options were shown at the bottom of the screen and each respondent ordered these TP in the order that he used them.
+Two summers ago I interned at a research based marketing company in Amsterdam. They have designed and administrated an online survey to 1000 respondents trying to identify the ideal consumer decision journey. The consumer decision journey is the decision making process that a consumer goes through from the moment he or she decides to make a purchase till the moment of purchase. During this decision making process the consumer gathers information from various sources (Google search, amazon, retailer website, visit to the retailer store, friends and family, etc.) which are called Touch Points (TP). More specifically, TP are points in time where the consumer comes in contact with the brand in some way. The date format gathered is shown below where options represent TP. Steps represent the order in which the responded visited these TP (whether online or offline). The process of gathering these data was that each respondent picked the TP he or she used during their decision making process. Then, these options were shown at the bottom of the screen and each respondent ordered these TP in the order that he used them.
 
-For example: Max is a typical consumer of vaccum. He is decided on buy a vaccum because his old one broke. At the begining of his search he goes to his old retailer website to look at the vaccums to get a feel for the different vaccum attributes. Later he compares prices of vaccums on google. A few days later, he decides to check the prices on amazone and ebay. He then maybe have a side conversation with his mother about the vaccum she uses. After that he attends a party at his friends' house and asks them about their vaccum. Eventually, he goes to the retail store down his street where he browses the different vaccums and asks one of the salesmen to give him a demonstration after which he makes his purchase. 
+For example: Max is a typical consumer of vacuum. He is decided on buy a vacuum because his old one broke. At the beginning of his search he goes to his old retailer website to look at the vacuums to get a feel for the different vacuum attributes. Later he compares prices of vacuums on Google. A few days later, he decides to check the prices on amazon and eBay. He then maybe have a side conversation with his mother about the vacuum she uses. After that he attends a party at his friends' house and asks them about their vacuum. Eventually, he goes to the retail store down his street where he browses the different vacuums and asks one of the salesmen to give him a demonstration after which he makes his purchase. 
 
 In this example this consumer's row in the data would look like this:
 
@@ -48,4 +48,5 @@ Objective:
 ## An example of a potential result where there exist common path(s):
 
 <p align = "center"> ![](https://cloud.githubusercontent.com/assets/10660514/5964340/605bf7ca-a7c1-11e4-869f-5900c45da41c.png)
+
 
